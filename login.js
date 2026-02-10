@@ -1,0 +1,3 @@
+{
+    "message": "Customer successfully logged in"
+}
