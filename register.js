@@ -1,0 +1,3 @@
+{
+    "message": "Customer successfully registered. Now you can login"
+}
